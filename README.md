@@ -1,8 +1,4 @@
 
-![DATA](https://github.com/user-attachments/assets/d34a51db-1520-47f6-bb69-55e8e9d1f102)
-
-
-
 - 👋 Hi, I’m @atrahay
   
 - 🌱 I’m interested in data analytics, science, sports and environnement
